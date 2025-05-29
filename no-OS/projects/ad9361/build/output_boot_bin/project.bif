@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+[bootloader] /home/lc35648/no-OS/projects/ad9361/build/tmp/output/hw0/export/hw0/sw/hw0/boot/fsbl.elf
+/home/lc35648/no-OS/projects/ad9361/build/tmp/system_top.bit
+/home/lc35648/no-OS/projects/ad9361/build/ad9361.elf
+}

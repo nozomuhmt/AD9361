@@ -1,0 +1,7 @@
+/*fmcomms2_zed*/
+the_ROM_image:
+{
+  [bootloader]<fmcomms2_zed/boot/fsbl.elf>
+   <bitstream> 
+  <elf,ps7_cortexa9_0>
+}
